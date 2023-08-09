@@ -1,5 +1,5 @@
 # keymaps
-my keymaps for a 42 keys keyboard
+My keymaps for a 42 keys keyboard using Vial
 
 ## Layout
 Base Layer
@@ -8,8 +8,11 @@ Nav Layer
 ![](img/layout_2.png)
 Num Layer
 ![](img/layout_3.png)
-Layer ...
+Sym Layer
 ![](img/layout_4.png)
+Misc/Free Layer
 ![](img/layout_5.png)
+Func Layer
 ![](img/layout_6.png)
-![](img/layout_7.png)
+## Credits
+* based on https://github.com/manna-harbour/miryoku/
